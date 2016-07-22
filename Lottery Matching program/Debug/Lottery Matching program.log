@@ -1,0 +1,5 @@
+﻿  Matching Program.cpp
+c:\users\andrew hyun\c++ adventure\random\lottery matching program\lottery matching program\matching program.cpp(72): warning C4101: 'dateDelim': unreferenced local variable
+c:\users\andrew hyun\c++ adventure\random\lottery matching program\lottery matching program\matching program.cpp(73): warning C4101: 'dateLength': unreferenced local variable
+  Lottery Matching program.vcxproj -> C:\Users\Andrew Hyun\C++ ADVENTURE\Random\Lottery Matching program\Debug\Lottery Matching program.exe
+  Lottery Matching program.vcxproj -> C:\Users\Andrew Hyun\C++ ADVENTURE\Random\Lottery Matching program\Debug\Lottery Matching program.pdb (Partial PDB)
